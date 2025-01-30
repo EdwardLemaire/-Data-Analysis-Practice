@@ -28,6 +28,6 @@ If you're also learning data analysis, feel free to browse the exercises and use
 
 📬 Let's Connect
 LinkedIn: [Your LinkedIn Profile]
-Email: [Your Email]
+Email: cillianlemaire@gmail.com
 Portfolio: [Your Website (if available)]
 Let’s learn and grow together! 🚀
