@@ -9,9 +9,13 @@ This portfolio serves as a learning journal, showcasing my progress as I explore
 🛠️ Skills & Tools Practiced
 
 Data Wrangling: Cleaning, transforming, and preparing datasets
+
 Exploratory Data Analysis (EDA): Identifying trends and patterns in data
+
 Data Visualization: Creating charts and dashboards with Matplotlib, Seaborn, and Power BI
+
 SQL & Python: Writing queries, manipulating data with Pandas and NumPy
+
 Statistics & Machine Learning Basics: A/B testing, hypothesis testing, and simple predictive modeling
 
 📂 Practice Exercises & Projects
@@ -23,9 +27,13 @@ Notes and reflections on key learnings
 Some examples include:
 
 🧹 Data Cleaning Challenges – Handling missing values, duplicates, and inconsistencies
+
 📊 EDA & Visualization Practice – Exploring data distributions and trends
+
 🔍 SQL Queries for Business Insights – Writing queries to extract meaningful information
+
 📉 Basic Predictive Models – Experimenting with regression and classification techniques
+
 📈 How to Use This Repository
 
 If you're also learning data analysis, feel free to browse the exercises and use them as practice material. I’ll continue updating this repository as I progress in my journey!
